@@ -1,7 +1,8 @@
 --------------------------
 Drawbot experiment with Alessandro, Eva and Alberto
-at Betahaus, Berlin.
-15/01/2014
+at Betahaus, Berlin, 15/01/2014
+
+--------------------------
 --------------------------
 
 Drawbot with 2 stepper and 1 servo with Arduino.
